@@ -1,0 +1,9 @@
+pillow
+numpy
+tkFileDialog
+opencv
+time
+threading
+dlib
+tkMessageBox
+os
